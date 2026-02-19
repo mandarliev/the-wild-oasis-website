@@ -1,5 +1,3 @@
-import Counter from "../_components/Counter";
-
 function Page() {
   return (
     <div>
