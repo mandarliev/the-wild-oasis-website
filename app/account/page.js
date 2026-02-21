@@ -4,9 +4,9 @@ export const metadata = {
 
 function Page() {
   return (
-    <div>
-      <h1>Account page</h1>
-    </div>
+    <h2 className="font-semibold text-2xl text-accent-400 mb-7">
+      Your reservations
+    </h2>
   );
 }
 
